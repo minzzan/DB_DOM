@@ -20,95 +20,95 @@ Database 모델링 / 테이블 제작, dom으로 데이터 조작하기
 
 ### 4.	회원 정보 업데이트
 
- ![image](/uploads/6a656a03e6d97f23cfbe44e4e0ad389c/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870345-29f67bc5-ff89-4eb4-b619-ecf39e653a5b.png)
 
 
 ### 5.	회원 정보 삭제
 
-![image](/uploads/b02a635de37227ba4f77d11a505f15cb/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870356-73b7e4f3-dd05-43ac-9226-12ac4ef40cc2.png)
  
 
 ## **<주택 실거래가 정보 수집 & 검색>**
 
 ### 1. 등록
 
-![image](/uploads/a8541da2306b739ad255e1aed307c62e/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870611-d2267bcf-0342-4e01-bb0b-0ea661893ec9.png)
 
 ### 2. 정보 변경
 
-![image](/uploads/5bae309f5927aa25cdba2cb1d5e494a9/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870655-e82493c6-4b4f-4433-ab02-4e0ad57df290.png)
 
 ### 3. 삭제
 
-![image](/uploads/2f96acd083a4af5a8218786614b4d215/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870669-2cf84e3a-f4c7-408b-9153-ade2c8200f35.png)
 
 ### 4. 아이디로 검색
 
-![image](/uploads/89e7bfc3595e1e16d1aea8530965a30f/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870630-284a4681-7bb4-40f8-a4b6-845bb6bb941b.png)
 
 ### 5. 모든 정보 출력 (100개 까지)
 
-![image](/uploads/f4343f499bfc08138d4965d1db1464fb/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870642-9adb5865-4262-46b1-a688-c4708c659308.png)
 
 
 ## **<관심 지역 정보 관리>**
 
 ### 1.	등록
  
- ![image](/uploads/1fb3e816455ee6fc550e381df520eb61/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870715-d00271af-531d-4012-99e7-66bb265e275e.png)
 
 
 ### 2.	아이디로 검색
  
-![image](/uploads/4dc2b4db12d191f0eb31f7d9a75e5741/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870733-6881287f-b5e5-43b3-8ab7-b7851f951be9.png)
 
 ### 3.	관심정보 삭제 & 모든 관심정보 출력
  
-![image](/uploads/25c266952259b35f1eb748958b8ab4b7/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870742-e10eb877-ed43-4bf7-8ffc-381f00d3a4ab.png)
 
 
 ## **<주변탐방 정보 수집>**
 ### 1. 동(법정동코드)로 조회하기
 
-![image](/uploads/d212267e3404d39f05d5b8800365e4d7/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870797-f005541b-7d35-49b2-a71d-1718996b42ad.png)
 
 ### 2. 모든 상권 정보 출력
 
-![image](/uploads/0a32597b6c6abd8f0bc9f8139119499b/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870816-feb71c69-d321-4ee8-a77a-4c79cb5c0443.png)
 
-![image](/uploads/30a1fd9d49330492809e155c3b71b42f/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870840-6656d926-ce8e-4996-93e1-94d757bc048b.png)
 
-![image](/uploads/9098e38825abccab6db5f3eec83b09a2/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870851-8bbaf4f9-9e29-4afe-a979-41ecfe244f25.png)
 
 ### 3. 종료
 
-![image](/uploads/7bcf153c8c9ebbe7ecddb27a5e2a2a8c/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870881-175cdf0e-ccba-45f4-bc25-224f54a23781.png)
 
 
 ## **<주변 환경 정보 수집>**
 - 메뉴
 
-![image](/uploads/e375cf8cb76f8422c06c9a646a473485/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870935-74e9895b-a63e-45b4-9293-b99b126f108b.png)
 
 ### 1. 등록
 
-![image](/uploads/ee92000f3ecb1476af25fb1ce9e5e596/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870978-1a204328-b879-41f8-91a3-0ec684e9b109.png)
 
 ### 2. 정보 변경
 
-![image](/uploads/e93acebb54775f5b2f496a058aefe908/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132871004-0bbf76e7-499c-49a8-ac9f-4642a905140e.png)
 
 ### 3. 삭제
 
-![image](/uploads/8d1c722e7b87e638cb1d54d2b621904a/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132871021-2aaedeb8-2685-4834-9ad3-b6092d8db020.png)
 
 ### 4. 아이디로 검색
 
-![image](/uploads/0241487a157fb8519487b4c7f96d9642/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870952-7e3a853b-a3ac-41f8-8f5f-8b61f3443d94.png)
 
 ### 5. 모든 정보 출력 (100개까지)
 
-![image](/uploads/1fd60771b802a031aa1194e0778b6ca8/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870988-6186cde9-41b5-45de-a990-b6eb736cf99b.png)
 
 
 
