@@ -2,20 +2,21 @@
 Database 모델링 / 테이블 제작, dom으로 데이터 조작하기
 
 ## **<DB 모델링 (ER 다이어그램)>**
-![image](/uploads/a708a315051f8aa09281c3bb91e2ccea/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870152-01d84ded-1e18-4270-b91e-c0bc839880d8.png)
+
 
 ## **<회원 정보 DAO (user)>**
 ### 1.	회원 등록
 
- ![image](/uploads/4fef952b6dc070a734c11ee00459e46b/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870260-2f4b9432-0a47-43fa-8162-61f1d027a21f.png)
 
 ### 2.	회원 검색
 
- ![image](/uploads/bfa4f9387d23492b36ee2dcd93cff706/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870273-ed0fb393-4e6e-40d8-817a-6ed49ec5cb68.png)
 
 ### 3.	모든 회원 검색
 
- ![image](/uploads/09c2bf3059a7497ca4acf8a81fe0aad0/image.png)
+![image](https://user-images.githubusercontent.com/69343830/132870285-2225936e-1fba-4206-9244-4eaded1fefe8.png)
 
 ### 4.	회원 정보 업데이트
 
